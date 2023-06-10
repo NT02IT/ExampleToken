@@ -1,0 +1,2 @@
+# VII. Law of Prägnanz
+
